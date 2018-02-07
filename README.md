@@ -1,1 +1,0 @@
-# ashleywicks.github.io
