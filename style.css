@@ -4,6 +4,12 @@ h1 {
 	font-size: 60px;
 }
 
+h2 {
+	font-family: "Roboto Condensed", sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+}
+
 #myphoto {
 	text-align: center;
 }
@@ -17,6 +23,25 @@ h1 {
 	font-family: "Open Sans", sans-serif;
 	font-size: 20px;
 	text-align: center;
-	padding-left: 20%;
-	padding-right: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.section {
+	margin-left: 15%;
+	margin-right: 15%;
+	border-bottom: solid;
+	font-family: "Open Sans", sans-serif;
+}
+
+.indented {
+	margin-left: 50px;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.italic {
+	font-style: italic;
 }
